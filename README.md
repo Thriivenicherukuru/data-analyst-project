@@ -57,4 +57,4 @@ Features include:
 ---
 
 ## Author
-Madhusudhan Vakati
+Thriveni Cherukuru
